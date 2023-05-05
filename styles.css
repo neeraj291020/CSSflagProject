@@ -1,0 +1,34 @@
+.container
+{
+    height:600px;
+    width:900px;
+    background-color: red;
+    position: relative;
+}
+.neeraj{
+    color:white;
+    text-align: center;
+    font-size: 50px;
+   
+}
+.karan{
+    position: absolute;
+    top:150px;
+    height:250px;
+    width:900px;
+    background-color: darkblue;
+ 
+}
+.maa{
+    height:125px;
+    width: 125px;
+    background-color:white;
+    border-radius: 50%;
+    position: relative;
+    left:390px;
+    bottom:410px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
